@@ -1,6 +1,7 @@
 # Simple-Countdown
 A simple mini project created with JavaScript, HTML, and CSS to display a countdown timer.
-Access the project online at [Countdown Timer]((https://darshanchgit.github.io/Simple-Coutdown-Timer/)).
+ Access the project online at [Countdown Timer](https://darshanchgit.github.io/Simple-Coutdown-Timer/).
+
 
 ## 🛠️ Technologies Used
 
